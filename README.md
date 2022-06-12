@@ -1,6 +1,6 @@
 ### This Python script is sus :laughing:
 
-<img src="sus.gif" width="200px">
+<img src="sus.gif" width="200">
 
 #### First install and run
 
