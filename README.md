@@ -1,5 +1,7 @@
 ### This Python script is sus :laughing:
 
+<img src="sus.gif" width="200px">
+
 #### First install and run
 
 ```bash

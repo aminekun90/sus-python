@@ -6,7 +6,7 @@ if __name__ == '__main__':
     wn = turtle.Screen()
     wn.title("SUS")
     wn.bgcolor('skyblue')
-    wn.setup(width=100, height=100)
+    wn.setup(width=200, height=100)
 for i in range(10000000):
     turtle.penup()
     turtle.setpos(-30, 0)
